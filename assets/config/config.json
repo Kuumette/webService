@@ -1,0 +1,13 @@
+{
+	"serveur": {
+		"urlProd": "http://134.171.180.58",
+		"urlDev": "http://127.0.0.1:5500",
+		"isProd": true
+	},
+	"json": {
+		"timer": "60000",
+		"images": "/assets/config/image.json",
+		"date": "/ressources/lastImage.json",
+		"coords": "/assets/config/pointCoord_overlay.json"
+	}
+}
